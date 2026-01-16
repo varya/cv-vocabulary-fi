@@ -52,7 +52,6 @@
 | mitata | to measure | Mittasin kehittäjäkokemusta | I measured developer experience |
 | tarjota | to offer | Tarjosin teknistä johtajuutta | I offered technical leadership |
 | kehittää | to develop | Kehitin metodologian | I developed methodology |
-| suositella | to recommend | Suosittelin SC5 Styleguidea | I recommended SC5 Styleguide |
 | parantaa | to improve | Paransin kehitysprosesseja | I improved development processes |
 | jakaa | to share, to divide | Hallitsin tietämyksen jakamista | I managed knowledge sharing |
 | valvoa | to supervise, to monitor | Valvoin käyttöönottoja | I supervised deployments |
